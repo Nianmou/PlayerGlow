@@ -1,0 +1,23 @@
+# Ignore .vs directory
+.vs/
+
+# Ignore project bin folders
+bin/
+**/bin/
+
+# Ignore project obj folders
+obj/
+**/obj/
+
+
+
+# MFractors (Xamarin productivity tool) working folder 
+/.vs
+
+.vs/PAPConFront/v17/.futdcache.v2
+.vs/PAPConFront/DesignTimeBuild/.dtbcache.v2
+.vs/PAPConFront/v17/.futdcache.v2
+*.v2
+*.bin
+*.bin
+*.v2
